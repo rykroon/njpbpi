@@ -1,1 +1,682 @@
-{}
+{
+ "ChIJqQ9a1TvhwokRtrtgKiwbt8k": {
+  "id": "ChIJqQ9a1TvhwokRtrtgKiwbt8k",
+  "types": [
+   "pizza_restaurant",
+   "italian_restaurant",
+   "restaurant",
+   "bar",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "formattedAddress": "586 Franklin Turnpike, Ramsey, NJ 07446, USA",
+  "addressComponents": [
+   {
+    "longText": "586",
+    "shortText": "586",
+    "types": [
+     "street_number"
+    ],
+    "languageCode": "en-US"
+   },
+   {
+    "longText": "Franklin Turnpike",
+    "shortText": "Franklin Turnpike",
+    "types": [
+     "route"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "Ramsey",
+    "shortText": "Ramsey",
+    "types": [
+     "locality",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "Bergen County",
+    "shortText": "Bergen County",
+    "types": [
+     "administrative_area_level_2",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "New Jersey",
+    "shortText": "NJ",
+    "types": [
+     "administrative_area_level_1",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "United States",
+    "shortText": "US",
+    "types": [
+     "country",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "07446",
+    "shortText": "07446",
+    "types": [
+     "postal_code"
+    ],
+    "languageCode": "en-US"
+   }
+  ],
+  "location": {
+   "latitude": 41.077723299999995,
+   "longitude": -74.1386945
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.kinchleyspizza.com/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 2700,
+  "displayName": {
+   "text": "Kinchley's Tavern",
+   "languageCode": "en"
+  },
+  "takeout": true,
+  "delivery": false,
+  "dineIn": true,
+  "curbsidePickup": false,
+  "reservable": true,
+  "servesBreakfast": false,
+  "servesLunch": true,
+  "servesDinner": true,
+  "servesBeer": true,
+  "servesWine": true,
+  "servesBrunch": false,
+  "servesVegetarianFood": true,
+  "primaryType": "pizza_restaurant",
+  "shortFormattedAddress": "586 Franklin Turnpike, Ramsey",
+  "outdoorSeating": false,
+  "liveMusic": false,
+  "menuForChildren": true,
+  "servesCocktails": true,
+  "servesDessert": true,
+  "servesCoffee": true,
+  "goodForChildren": true,
+  "allowsDogs": false,
+  "restroom": true,
+  "goodForGroups": true,
+  "goodForWatchingSports": true,
+  "paymentOptions": {
+   "acceptsCreditCards": false,
+   "acceptsDebitCards": false,
+   "acceptsCashOnly": true,
+   "acceptsNfc": false
+  },
+  "parkingOptions": {
+   "freeParkingLot": true,
+   "freeStreetParking": false,
+   "valetParking": false
+  },
+  "accessibilityOptions": {
+   "wheelchairAccessibleParking": false,
+   "wheelchairAccessibleEntrance": false,
+   "wheelchairAccessibleRestroom": false,
+   "wheelchairAccessibleSeating": false
+  },
+  "priceRange": {
+   "startPrice": {
+    "currencyCode": "USD",
+    "units": "10"
+   },
+   "endPrice": {
+    "currencyCode": "USD",
+    "units": "20"
+   }
+  }
+ },
+ "ChIJr9Hewcj4wokRMKwSvE8AjKw": {
+  "id": "ChIJr9Hewcj4wokRMKwSvE8AjKw",
+  "types": [
+   "pizza_restaurant",
+   "italian_restaurant",
+   "meal_delivery",
+   "food_delivery",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "formattedAddress": "332 Union Ave, Rutherford, NJ 07070, USA",
+  "addressComponents": [
+   {
+    "longText": "332",
+    "shortText": "332",
+    "types": [
+     "street_number"
+    ],
+    "languageCode": "en-US"
+   },
+   {
+    "longText": "Union Avenue",
+    "shortText": "Union Ave",
+    "types": [
+     "route"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "Rutherford",
+    "shortText": "Rutherford",
+    "types": [
+     "locality",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "Bergen County",
+    "shortText": "Bergen County",
+    "types": [
+     "administrative_area_level_2",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "New Jersey",
+    "shortText": "NJ",
+    "types": [
+     "administrative_area_level_1",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "United States",
+    "shortText": "US",
+    "types": [
+     "country",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "07070",
+    "shortText": "07070",
+    "types": [
+     "postal_code"
+    ],
+    "languageCode": "en-US"
+   },
+   {
+    "longText": "1573",
+    "shortText": "1573",
+    "types": [
+     "postal_code_suffix"
+    ],
+    "languageCode": "en-US"
+   }
+  ],
+  "location": {
+   "latitude": 40.8366393,
+   "longitude": -74.1139165
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.mamarosapasta.com/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 277,
+  "displayName": {
+   "text": "Mama Rosa Pizza and Pasta",
+   "languageCode": "en"
+  },
+  "takeout": true,
+  "delivery": true,
+  "dineIn": true,
+  "reservable": false,
+  "servesLunch": true,
+  "servesDinner": true,
+  "servesWine": true,
+  "servesBrunch": false,
+  "servesVegetarianFood": true,
+  "primaryType": "pizza_restaurant",
+  "shortFormattedAddress": "332 Union Ave, Rutherford",
+  "outdoorSeating": false,
+  "liveMusic": false,
+  "servesCocktails": false,
+  "servesDessert": true,
+  "goodForChildren": true,
+  "allowsDogs": false,
+  "restroom": true,
+  "goodForGroups": true,
+  "goodForWatchingSports": false,
+  "paymentOptions": {
+   "acceptsCreditCards": true,
+   "acceptsDebitCards": true,
+   "acceptsCashOnly": false,
+   "acceptsNfc": true
+  },
+  "parkingOptions": {
+   "freeParkingLot": true,
+   "valetParking": false
+  },
+  "accessibilityOptions": {
+   "wheelchairAccessibleSeating": true
+  },
+  "priceRange": {
+   "startPrice": {
+    "currencyCode": "USD",
+    "units": "10"
+   },
+   "endPrice": {
+    "currencyCode": "USD",
+    "units": "20"
+   }
+  }
+ },
+ "ChIJQZPOD9sBw4kRRQnxacQp7Ac": {
+  "id": "ChIJQZPOD9sBw4kRRQnxacQp7Ac",
+  "types": [
+   "pizza_restaurant",
+   "restaurant",
+   "food",
+   "point_of_interest",
+   "establishment"
+  ],
+  "formattedAddress": "7A Paterson Ave, Little Falls Township, NJ 07424, USA",
+  "addressComponents": [
+   {
+    "longText": "7A",
+    "shortText": "7A",
+    "types": [
+     "street_number"
+    ],
+    "languageCode": "en-US"
+   },
+   {
+    "longText": "Paterson Avenue",
+    "shortText": "Paterson Ave",
+    "types": [
+     "route"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "Little Falls Township",
+    "shortText": "Little Falls Township",
+    "types": [
+     "locality",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "Passaic County",
+    "shortText": "Passaic County",
+    "types": [
+     "administrative_area_level_2",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "New Jersey",
+    "shortText": "NJ",
+    "types": [
+     "administrative_area_level_1",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "United States",
+    "shortText": "US",
+    "types": [
+     "country",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "07424",
+    "shortText": "07424",
+    "types": [
+     "postal_code"
+    ],
+    "languageCode": "en-US"
+   }
+  ],
+  "location": {
+   "latitude": 40.881636199999996,
+   "longitude": -74.22737459999999
+  },
+  "rating": 4.7,
+  "websiteUri": "http://aquilaforno.com/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 187,
+  "displayName": {
+   "text": "Aquila Pizza Al Forno",
+   "languageCode": "en"
+  },
+  "takeout": true,
+  "delivery": false,
+  "dineIn": true,
+  "reservable": true,
+  "servesBreakfast": false,
+  "servesLunch": true,
+  "servesDinner": true,
+  "servesBeer": false,
+  "servesWine": false,
+  "servesBrunch": false,
+  "servesVegetarianFood": true,
+  "primaryType": "pizza_restaurant",
+  "shortFormattedAddress": "7A Paterson Ave, Little Falls Township",
+  "outdoorSeating": true,
+  "liveMusic": false,
+  "servesCocktails": false,
+  "servesDessert": true,
+  "servesCoffee": true,
+  "goodForChildren": true,
+  "allowsDogs": false,
+  "restroom": true,
+  "goodForGroups": true,
+  "paymentOptions": {
+   "acceptsCreditCards": true,
+   "acceptsDebitCards": true,
+   "acceptsCashOnly": false,
+   "acceptsNfc": false
+  },
+  "parkingOptions": {
+   "freeStreetParking": true
+  },
+  "accessibilityOptions": {
+   "wheelchairAccessibleParking": false,
+   "wheelchairAccessibleEntrance": true,
+   "wheelchairAccessibleRestroom": false,
+   "wheelchairAccessibleSeating": true
+  },
+  "priceRange": {
+   "startPrice": {
+    "currencyCode": "USD",
+    "units": "20"
+   },
+   "endPrice": {
+    "currencyCode": "USD",
+    "units": "30"
+   }
+  }
+ },
+ "ChIJ37YIYtjhwokRkLmWzeHT3WQ": {
+  "id": "ChIJ37YIYtjhwokRkLmWzeHT3WQ",
+  "types": [
+   "italian_restaurant",
+   "meal_delivery",
+   "catering_service",
+   "food_delivery",
+   "meal_takeaway",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "formattedAddress": "64 Ramapo Valley Rd, Mahwah, NJ 07430, USA",
+  "addressComponents": [
+   {
+    "longText": "64",
+    "shortText": "64",
+    "types": [
+     "street_number"
+    ],
+    "languageCode": "en-US"
+   },
+   {
+    "longText": "Ramapo Valley Road",
+    "shortText": "Ramapo Valley Rd",
+    "types": [
+     "route"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "Mahwah",
+    "shortText": "Mahwah",
+    "types": [
+     "locality",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "Bergen County",
+    "shortText": "Bergen County",
+    "types": [
+     "administrative_area_level_2",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "New Jersey",
+    "shortText": "NJ",
+    "types": [
+     "administrative_area_level_1",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "United States",
+    "shortText": "US",
+    "types": [
+     "country",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "07430",
+    "shortText": "07430",
+    "types": [
+     "postal_code"
+    ],
+    "languageCode": "en-US"
+   }
+  ],
+  "location": {
+   "latitude": 41.1031255,
+   "longitude": -74.15113649999999
+  },
+  "rating": 4.4,
+  "websiteUri": "http://www.novinonj.com/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 355,
+  "displayName": {
+   "text": "Novino Ristorante",
+   "languageCode": "en"
+  },
+  "takeout": true,
+  "delivery": true,
+  "dineIn": true,
+  "reservable": true,
+  "servesLunch": true,
+  "servesDinner": true,
+  "servesBeer": false,
+  "servesWine": true,
+  "servesVegetarianFood": true,
+  "primaryType": "italian_restaurant",
+  "shortFormattedAddress": "64 Ramapo Valley Rd, Mahwah",
+  "outdoorSeating": true,
+  "liveMusic": false,
+  "servesCocktails": false,
+  "servesDessert": true,
+  "servesCoffee": true,
+  "goodForChildren": true,
+  "allowsDogs": false,
+  "restroom": true,
+  "goodForGroups": true,
+  "goodForWatchingSports": false,
+  "paymentOptions": {
+   "acceptsCreditCards": true,
+   "acceptsDebitCards": true,
+   "acceptsCashOnly": false,
+   "acceptsNfc": true
+  },
+  "parkingOptions": {
+   "freeParkingLot": true,
+   "freeStreetParking": true,
+   "valetParking": false
+  },
+  "accessibilityOptions": {
+   "wheelchairAccessibleParking": true,
+   "wheelchairAccessibleEntrance": true,
+   "wheelchairAccessibleRestroom": true,
+   "wheelchairAccessibleSeating": true
+  }
+ },
+ "ChIJd-m4jqaqw4kRlXjRWnol4GY": {
+  "id": "ChIJd-m4jqaqw4kRlXjRWnol4GY",
+  "types": [
+   "pizza_restaurant",
+   "fast_food_restaurant",
+   "meal_delivery",
+   "food_delivery",
+   "restaurant",
+   "point_of_interest",
+   "food",
+   "establishment"
+  ],
+  "formattedAddress": "150 Bloomfield Ave, Verona, NJ 07044, USA",
+  "addressComponents": [
+   {
+    "longText": "150",
+    "shortText": "150",
+    "types": [
+     "street_number"
+    ],
+    "languageCode": "en-US"
+   },
+   {
+    "longText": "Bloomfield Avenue",
+    "shortText": "Bloomfield Ave",
+    "types": [
+     "route"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "Verona",
+    "shortText": "Verona",
+    "types": [
+     "locality",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "Essex County",
+    "shortText": "Essex County",
+    "types": [
+     "administrative_area_level_2",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "New Jersey",
+    "shortText": "NJ",
+    "types": [
+     "administrative_area_level_1",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "United States",
+    "shortText": "US",
+    "types": [
+     "country",
+     "political"
+    ],
+    "languageCode": "en"
+   },
+   {
+    "longText": "07044",
+    "shortText": "07044",
+    "types": [
+     "postal_code"
+    ],
+    "languageCode": "en-US"
+   }
+  ],
+  "location": {
+   "latitude": 40.826102,
+   "longitude": -74.23276899999999
+  },
+  "rating": 4,
+  "websiteUri": "https://www.thepizzaterminalnj.com/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 456,
+  "displayName": {
+   "text": "The Pizza Terminal & Restaurant NJ",
+   "languageCode": "en"
+  },
+  "takeout": true,
+  "delivery": true,
+  "dineIn": true,
+  "curbsidePickup": true,
+  "reservable": true,
+  "servesBreakfast": false,
+  "servesLunch": true,
+  "servesDinner": true,
+  "servesBeer": false,
+  "servesWine": false,
+  "servesBrunch": true,
+  "primaryType": "pizza_restaurant",
+  "shortFormattedAddress": "150 Bloomfield Ave, Verona",
+  "outdoorSeating": false,
+  "liveMusic": false,
+  "menuForChildren": true,
+  "servesCocktails": false,
+  "servesDessert": true,
+  "servesCoffee": true,
+  "goodForChildren": true,
+  "allowsDogs": false,
+  "restroom": true,
+  "goodForGroups": true,
+  "goodForWatchingSports": true,
+  "paymentOptions": {
+   "acceptsCreditCards": true,
+   "acceptsDebitCards": true,
+   "acceptsCashOnly": false,
+   "acceptsNfc": true
+  },
+  "parkingOptions": {
+   "freeParkingLot": true,
+   "paidParkingLot": false,
+   "freeStreetParking": true,
+   "paidStreetParking": false,
+   "valetParking": false,
+   "freeGarageParking": false,
+   "paidGarageParking": false
+  },
+  "accessibilityOptions": {
+   "wheelchairAccessibleParking": true,
+   "wheelchairAccessibleEntrance": true,
+   "wheelchairAccessibleRestroom": true,
+   "wheelchairAccessibleSeating": true
+  },
+  "priceRange": {
+   "startPrice": {
+    "currencyCode": "USD",
+    "units": "10"
+   },
+   "endPrice": {
+    "currencyCode": "USD",
+    "units": "20"
+   }
+  }
+ }
+}
