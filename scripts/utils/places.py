@@ -16,14 +16,14 @@ PLACE_DETAILS_ESSENTIALS = (
 )
 
 PLACE_DETAILS_PRO = (
-    "accessibilityOptions",
+    # "accessibilityOptions",
     "displayName",
     "primaryType",
 )
 
 PLACE_DETAILS_ENTERPRISE = (
     "priceLevel",
-    "priceRange",
+    # "priceRange",
     "rating",
     "userRatingCount",
     "websiteUri",
