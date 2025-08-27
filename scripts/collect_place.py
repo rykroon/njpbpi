@@ -44,7 +44,7 @@ def collect_place(text_query: str, outfile: pathlib.Path, replace: bool = False)
             print("invalid input")
             return
         
-        if chosen_idx > len(results):
+        if chosen_idx >= len(results):
             print("invalid input")
             return
 
@@ -83,7 +83,7 @@ def collect_place(text_query: str, outfile: pathlib.Path, replace: bool = False)
         assert isinstance(current_data, dict), "expected dict"
         current_data.update(place)
     
-    outfile.write_text(json.dumps(data))
+    outfile.write_text(json.dumps(data, separators=(',', ':')))
 
 
 if __name__ == "__main__":
