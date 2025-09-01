@@ -34,18 +34,18 @@ def collect_place(text_query: str, outfile: pathlib.Path, replace: bool = False)
             address = result["formattedAddress"]
             print("\t", f"[{idx}]", display_name, " - ", address)
 
-        chosen_idx = input("Pick result: ")
+        chosen_idx = input("Choose result: ")
         if not chosen_idx:
             return
         
         try:
             chosen_idx = int(chosen_idx)
         except (TypeError, ValueError):
-            print("invalid input")
+            print("invalid choice")
             return
         
         if chosen_idx >= len(results):
-            print("invalid input")
+            print("invalid choice")
             return
 
         result_idx = chosen_idx        
